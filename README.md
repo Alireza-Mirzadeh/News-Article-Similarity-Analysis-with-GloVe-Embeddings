@@ -31,24 +31,24 @@ The news article dataset was sourced from Mage AI's public datasets repository:
 ### 1. Dimensionality Reduction and Clustering
 **PCA Projection with K-Means Clustering**  
 
-![PCA_Projection_with_K-Means](./Results/most_in_demand_skills.png)
+![PCA_Projection_with_K-Means](./Results/pca_kmeans.png)
 
 ### 2. Cluster Analysis via Word Clouds
 #### Cluster 0
 
-![cluster0](./Results/y.png)
+![cluster0](./Results/word_cloud_cluster_0.png)
 
-- **Dominant Terms**: "time", "life", "people", "love", 
+- **Dominant Terms**: "time", "life", "people", "love"
 
 #### Cluster 1
 
-![cluster1](./Results/z.png)
+![cluster1](./Results/word_cloud_cluster_1.png)
 
 - **Dominant Terms**: "state", "republican", "people", "president"
 
 #### Cluster 2
 
-![cluster2](./Results/p.png)
+![cluster2](./Results/word_cloud_cluster_2.png)
 
 - **Dominant Terms**: "film", "star", "actor", "show"
 
